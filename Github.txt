@@ -1,8 +1,11 @@
 This is us playing around with github.
 
 I have changed it for spelling.
+<<<<<<< HEAD
 
 
 
 this is concurrent with what is going on in news today
+=======
 I am going to change some more if you don't mind.
+>>>>>>> 3a1e96e18b779d9b447aea19e8b297b268eac9f1
