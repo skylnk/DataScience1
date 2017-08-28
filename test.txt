@@ -13,7 +13,10 @@ This is a test
 =======
 We are demonstrating the functions of git and in consequence github.
 This is proof of how it works.
+<<<<<<< HEAD
 >>>>>>> parent of 894797e... Test3
 =======
 Let's change something and add something.
 >>>>>>> parent of 5d722fa... Test 4
+=======
+>>>>>>> parent of 7d2f41e... Test7
