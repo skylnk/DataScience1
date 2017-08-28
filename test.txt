@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 This is a test.
-<<<<<<< HEAD
 We are demonstrating the functions of git.
 This is proof of how it works.
 Now lets add something in between.
 As you can see, it will move the lines down.
 Let's change something and add something.
+We are editing on the website now.
