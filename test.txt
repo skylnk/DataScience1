@@ -8,3 +8,5 @@ Let's change something and add something.
 =======
 This is a test
 >>>>>>> parent of 786913e... Test 2
+We are demonstrating the functions of git and in consequence github.
+This is proof of how it works.
