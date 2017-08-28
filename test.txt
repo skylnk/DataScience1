@@ -5,3 +5,6 @@ This is proof of how it works.
 Now lets add something in between.
 As you can see, it will move the lines down.
 Let's change something and add something.
+=======
+This is a test
+>>>>>>> parent of 786913e... Test 2
