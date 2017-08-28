@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a test.
 We are demonstrating the functions of git.
 This is proof of how it works.
